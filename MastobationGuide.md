@@ -2,7 +2,7 @@
 
 ## or, A Quick 'n' Dirty How-to Guide for Using Mastodon
 
-*Written by Spiro Harvey, @notawizard@mastodon.social.*
+*Written by Spiro Harvey, ``@notawizard@mastodon.social``.*
 
 This is my guide. There are many others like it, but this one is mine.
 
@@ -47,7 +47,7 @@ Use those hashtags you just posted and look through existing posts. Find interes
 
 You'll note that people share their @ address in a different format. Mine is:
 
-  @notawizard@mastodon.social
+  ``@notawizard@mastodon.social``
 
 And the reason for that double @ is because of the nature of the federated network. This tells you their name and the instance they are hosted on.
 
